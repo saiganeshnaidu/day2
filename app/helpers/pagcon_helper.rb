@@ -1,0 +1,2 @@
+module PagconHelper
+end
